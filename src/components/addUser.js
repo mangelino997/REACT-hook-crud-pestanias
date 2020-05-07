@@ -12,10 +12,6 @@ const AddUser = (props) => {
         e.target.reset()
     }
 
-    //mostrar toast
-    const toast= () =>{
-
-    }
 
     return (
         <Fragment>
@@ -74,7 +70,9 @@ const AddUser = (props) => {
                     Agregar
                                     </button>
             </form>
-            {showToast? <Toast></Toast> : ''}
+            <div className="p-2">
+                {showToast ? <Toast></Toast> : ''}
+            </div>
         </Fragment>
     );
 }

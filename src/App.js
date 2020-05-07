@@ -39,9 +39,9 @@ function App() {
     <div className="App">
       <section id="tabs" className="project-tab">
         <div className="container">
-          <div className="row justify-content-center">
-            <h1>Gestión de usuarios con pestañas</h1>
-            <div className="col-md-6">
+          <div className="row justify-content-center p-3">
+            <h1 className="text-primary">Gestión de usuarios con pestañas</h1>
+            <div className="col-md-6 p-5">
               <Tabs></Tabs>
               <br />
               <div className="tab-content" id="nav-tabContent">
