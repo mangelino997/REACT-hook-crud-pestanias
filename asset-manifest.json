@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT-hook-crud-pestanias/static/css/main.1ea84cde.chunk.css",
+    "main.js": "/REACT-hook-crud-pestanias/static/js/main.5b61f0cf.chunk.js",
+    "main.js.map": "/REACT-hook-crud-pestanias/static/js/main.5b61f0cf.chunk.js.map",
+    "runtime-main.js": "/REACT-hook-crud-pestanias/static/js/runtime-main.a03fa7c6.js",
+    "runtime-main.js.map": "/REACT-hook-crud-pestanias/static/js/runtime-main.a03fa7c6.js.map",
+    "static/js/2.13222083.chunk.js": "/REACT-hook-crud-pestanias/static/js/2.13222083.chunk.js",
+    "static/js/2.13222083.chunk.js.map": "/REACT-hook-crud-pestanias/static/js/2.13222083.chunk.js.map",
+    "index.html": "/REACT-hook-crud-pestanias/index.html",
+    "precache-manifest.83c6954821cfa0775104fe905a4cf388.js": "/REACT-hook-crud-pestanias/precache-manifest.83c6954821cfa0775104fe905a4cf388.js",
+    "service-worker.js": "/REACT-hook-crud-pestanias/service-worker.js",
+    "static/css/main.1ea84cde.chunk.css.map": "/REACT-hook-crud-pestanias/static/css/main.1ea84cde.chunk.css.map",
+    "static/js/2.13222083.chunk.js.LICENSE.txt": "/REACT-hook-crud-pestanias/static/js/2.13222083.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03fa7c6.js",
+    "static/js/2.13222083.chunk.js",
+    "static/css/main.1ea84cde.chunk.css",
+    "static/js/main.5b61f0cf.chunk.js"
+  ]
+}
