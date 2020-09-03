@@ -8,9 +8,9 @@ import shortid from 'shortid' //npm install shortid
 
 function App() {
 
-  const [user, setUser] = useState()
-  const [users, setUsers] = useState([])
-  const [action, setAction] = useState('add')
+  const [user, setUser] = useState();
+  const [users, setUsers] = useState([]);
+  const [action, setAction] = useState('add');
 
   //agrega un usuario 
   const addU = (data) => {
@@ -32,6 +32,8 @@ function App() {
 
   //elimina un usuario 
   const deleteU = (id) => {
+    //el filter devuelve un array con todos los usuarios que no tienen el mismo id pasado como parametro
+    //excluye unicamente cuando se cumple la condicion
     setUsers(users.filter(user => user.id !== id))
   }
 
